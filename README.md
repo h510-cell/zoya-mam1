@@ -1,1 +1,1 @@
-# My Favourite Teacger
+# My Favourite Teacher
