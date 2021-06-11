@@ -1,0 +1,21 @@
+h3{
+    Color: red;
+}
+
+ .header{
+      background-color: blue;
+      display: flex;
+      justify-content: space-between;
+ }
+ 
+ .item{
+     display: flex;
+     position: relative;
+     justify-content: space-evenly;
+ }
+ h1{
+     color: turquoise;
+ }
+ .items:hover img{
+     opacity: 0.33;
+ }
